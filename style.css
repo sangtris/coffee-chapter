@@ -427,3 +427,13 @@ padding:40px 25px;
 font-size:.6rem;
 }
 }
+.footer{
+
+    text-align:center;
+
+    padding:40px 20px;
+
+    font-size:.85rem;
+
+    color:rgba(255,255,255,.7);
+}
